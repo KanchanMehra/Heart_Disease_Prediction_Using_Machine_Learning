@@ -12,5 +12,4 @@ Key Machine Learning Algorithms Used:
 6. Random Forest (Scikit-learn)
 7. XGBoost (Scikit-learn)
 
-Accuracy Achieved:
-90.16% (Random Forest)
+Accuracy Achieved: 90.16% (Random Forest)
